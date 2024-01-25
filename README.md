@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 A Computer engineer trying to improve his programming skills<br><br>
 🌱 I’m currently learning Java, Spring, Sql<br>
